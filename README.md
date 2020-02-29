@@ -12,7 +12,7 @@ Python Flask CRUD API using SQL Alchemy and Marshmallow
 
        http://127.0.0.1:5000/product/<id>
        
-3. Create a Product ( POST Request)
+3. Create a Product ( POST Request )
 
        http://127.0.0.1:5000/product/     
    
